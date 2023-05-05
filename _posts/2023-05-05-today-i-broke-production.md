@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Today I Broke Production"
+title: "Today, I Broke Production"
 date: 2023-05-05 12:00
 ---
 
@@ -31,7 +31,7 @@ Rather than chastising me, we recap what changed from last night to this morning
 
 Finding solutions isn't just resolving the immediate issue, we need to put in additional safeguards and testing in the future, our greatest learnings are from the mistakes we make.
 
-![I'll admit it, it was my fault](./assets/article_images/2023-05-05-today-i-broke-production/meme.jpg)
+![I'll admit it, it was my fault](/assets/article_images/2023-05-05-today-i-broke-production/meme.jpg)
 ### Holding Yourself Accountable
 
 Now, you might be wondering why I'm doing this, even though we have a no blame culture. 
