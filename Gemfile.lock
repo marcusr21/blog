@@ -257,7 +257,7 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon
-  github-pages
+  github-pages (~> 228)
   jemoji
   webrick (~> 1.8)
 
