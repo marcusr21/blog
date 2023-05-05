@@ -20,7 +20,7 @@
         $(".post-content img").each(function() {
             // Let's put a caption if there is one
             if($(this).attr("alt") && !$(this).hasClass("emoji"))
-              $(this).wrap('<figure class="image"></figure>')
+              $(this).wrap('<figure class="image" align="center"></figure>')
               .after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
         });
         
