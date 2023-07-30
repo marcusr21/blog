@@ -2,6 +2,7 @@
 layout: post
 title: "Today, I Broke Production"
 date: 2023-05-05 12:00
+image: "{{site.baseurl}}/assets/article_images/2023-05-05-today-i-broke-production/meme.jpg"
 ---
 
 It's taken me 15 months at GoProposal to break Production, but today... I did it. You create a successful deployment the night before, run your tests, walk away happy and think "well, that was easy". 
