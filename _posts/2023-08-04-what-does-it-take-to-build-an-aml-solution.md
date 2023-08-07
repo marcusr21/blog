@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What does it take to build an AML Solution?"
+description: "Taking a small team who'll hold themselves accountable and applying the Shape Up framework."
 date: 2023-08-04 12:00
 social: /assets/article_images/2023-08-04-what-does-it-take-to-build-an-aml-solution/banner.png
 ---
