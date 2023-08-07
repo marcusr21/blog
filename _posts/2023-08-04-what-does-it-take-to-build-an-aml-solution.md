@@ -2,6 +2,7 @@
 layout: post
 title: "What does it take to build an AML Solution?"
 date: 2023-08-04 12:00
+social: assets/article_images/2023-08-04-what-does-it-take-to-build-an-aml-solution/banner.png
 ---
 
 What does it take to build a full AML solution from the ground up? A team of 30 developers? With 3 QAs, a Product Owner, Product Manager, Scrum Master, Project Manager and 3 UX and UI experts?
