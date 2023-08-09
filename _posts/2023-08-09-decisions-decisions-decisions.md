@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decisions, Decisions, Decisions"
-date: 2023-08-09 17:45
+date: 2023-08-09 16:45
 social: /assets/article_images/2023-08-09-decisions-decisions-decisions/decision_chart.jpeg
 ---
 I [read an interesting post](https://www.linkedin.com/feed/update/urn:li:activity:7094988211365568512?utm_source=share&utm_medium=member_desktop) by Steven Bartlett (entrepreneur and Diary of a CEO Podcast host) regarding decision-making and the number of people having an input leading to a lower quality decision.
