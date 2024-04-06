@@ -14,7 +14,9 @@ What I’m saying is, software development is not easy. Even if it does come nat
 
 Why am I writing this blog? Since COVID and the lockdowns on 2020 through to 2021, I’ve seen a creeping meeting culture across the industry. Meeting about a release process. Meeting about standards. Meeting about planning. Meeting about a meeting. Planning everything into the most minute detail rather than “getting on with it”.
 
-The list goes on.
+![We've all been here.]({{site.baseurl}}/assets/article_images/2024-04-06-the-growth-of-meeting-culture/meeting_culture.jpeg)
+
+**_The list goes on._**
 
 Yes, sometimes a meeting is required. But, sometimes, the meeting could be a Slack message or a quick call.
 

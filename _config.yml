@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "The Social Developer"
 description: > # this means to ignore newlines until "email:"
-   Marcus Rowland - ~Senior PHP Developer~ Principal Software Engineer @ GoProposal by Sage
+   Marcus Rowland - Principal Software Engineer @ GoProposal by Sage
    Through this blog, I hope to share some anecdotal stories and lessons I've learned!
 
 email: a-mail@mail.mail
