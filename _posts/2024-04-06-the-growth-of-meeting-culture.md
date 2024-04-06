@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Growth of Meeting Culture in Software Development "
-date: 2024-04-06 16:45
+date: 2024-04-06 10:00
 social: /assets/article_images/2024-04-06-the-growth-of-meeting-culture/meeting_culture.jpeg
 ---
 We all know the stereotype, a developer sat jn a dark room, headphones on, ignoring the outside world. But there’s a reason for that.
