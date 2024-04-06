@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Growth of Meeting Culture in Software Development "
-date: 2024-04-06 10:00
+date: 2024-04-05 10:00
 social: /assets/article_images/2024-04-06-the-growth-of-meeting-culture/meeting_culture.jpeg
 ---
-We all know the stereotype, a developer sat jn a dark room, headphones on, ignoring the outside world. But there’s a reason for that.
+We all know the stereotype, a developer sat in a dark room, headphones on, ignoring the outside world. But there’s a reason for that.
 
 Software development requires analysing, building and fixing complex pieces of code. Sometimes pieces of code that were written by a former colleague, 5 years ago, with no clear documentation. Every developer has seen this and worse.
 
